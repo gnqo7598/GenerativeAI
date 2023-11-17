@@ -1,2 +1,2 @@
-# GenerativeAIPractice
+# GenerativeAI
  
